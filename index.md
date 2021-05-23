@@ -2,4 +2,4 @@
 layout: default
 ---
 
-test homepage
+Hello! this website is the hub of my digital presence.
