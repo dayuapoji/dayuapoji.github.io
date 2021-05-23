@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /resume/
 ---
 
 I am a Ph.D. candidate in civil & environmental engineering with a designated emphasis in computational & data science engineering, at the University of California Berkeley. I am currently working on the implementation of artificial intelligence and machine learning in earth pressure balance shield machine (EPBM) tunneling. Our goal is to develop a framework for autonomous EPBM systems.
