@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Post!
+title: another test post
 ---
 
-more post ...
+xxx ...
